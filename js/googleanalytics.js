@@ -5,7 +5,7 @@ Promise.all([
         var script = document.createElement('script');
         script.src = "https://www.googletagmanager.com/gtag/js?id=G-PBG6GRZBM1";
         script.async = true;
-        document.body.appendChild(script);
+        document.head.appendChild(script);
         resolve();
     }), 
     new Promise((resolve) => {
