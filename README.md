@@ -1,4 +1,4 @@
-![Chatty Octopus Banner](https://spillthetea.chattyoctopus.com/images/octopusbanner.jpg)
+![Chatty Octopus Banner](https://chattyoctopus.com/images/octopusbanner.jpg)
 
 # Chatty Octopus - Coming in 2023
 
